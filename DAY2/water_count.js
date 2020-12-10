@@ -15,7 +15,7 @@ function hydrate(s) {
   let total_drink =result.reduce((a, b) => a + b, 0);
   let output = `${total_drink} glasses of water`
 
-  if(total_drink = 1){
+  if(total_drink === 1){
     output = "1 glass of water"
   }
 
