@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "leo" ,
+    "address" : {
+      "location" : "somewhere on earth", 
+      "unit_number": "1110",
+      "post_code" : "5628"
+    },
+    "phone_number": 123456, 
+    "hobbit": "emmmmm...", 
+    "have_money?" : false, 
+    "what's in his wallet": null
+  }
+]
