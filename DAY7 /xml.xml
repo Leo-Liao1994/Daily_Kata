@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<note>    <!-- no predefind tage call it whatever-->
+  <to>Leo</to>
+  <from>Leo's cat</from>
+  <heading>Reminder</heading>
+  <body>Don't forget to feed me </body>
+</note> 
+
+
