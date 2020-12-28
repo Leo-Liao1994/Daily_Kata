@@ -17,5 +17,3 @@ FROM base CROSS JOIN supply ;
 -- UNION COMBIND combine two table, won't show duplicate, UNION ALL shows all duplicates. 
 -- INTERSECT shows data match both table , with ALL will show duplicates 
 -- EXPECT is the oppressive of INTERSECT 
-
-
